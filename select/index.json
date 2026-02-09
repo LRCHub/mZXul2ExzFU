@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "HIBANA―火花―",
+  "base_artist": "いきづらい部！、駒形花火(CV.藤野こころ)",
+  "createdAt": "2026-02-09T18:05:56.876418Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HIBANA―火花―",
+      "artist": "いきづらい部!、駒形花火(CV.藤野こころ)",
+      "has_synced": false,
+      "path": "select/pl_01_HIBANA―火花―_いきづらい部!、駒形花火(CV.藤野こころ).txt"
+    }
+  ]
+}
